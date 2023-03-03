@@ -1,4 +1,4 @@
 <h1>
-    <img src="https://raw.githubusercontent.com/rodrigobdz/rodrigobdz/master/assets/hi.gif" width="30px">
-    Hi there, I'm Rodrigo
+    Hi there, this is a repository for my personal java codes.
+
 </h1>
