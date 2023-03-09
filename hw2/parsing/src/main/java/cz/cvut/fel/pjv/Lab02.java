@@ -44,7 +44,7 @@ public class Lab02 {
             arr = printer(arr, counter);
             for (String i : arr) {
                 if (i != null) {
-                System.out.println(i);
+                    System.out.println(i);
                 }
             }
         }
