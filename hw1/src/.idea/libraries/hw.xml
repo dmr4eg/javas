@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hw">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/main/java/cz/cvut/fel/pjv/hw.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

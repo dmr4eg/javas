@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3589e8e-9bd1-4cac-8dde-bedd22db6fd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cv4/untitled/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/.idea/109.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvic2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvic2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvic2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvic2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvic2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvic2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvic2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvic2/src/main/java/cz/cvut/fel/pjv/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvik2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvik2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvik2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvik2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvik2/cvik2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/cvik2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/first/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/src/main/java/cz/cvut/fel/pjv/game/Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/src/main/java/cz/cvut/fel/pjv/game/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/src/main/java/cz/cvut/fel/pjv/game/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/game/src/main/java/cz/cvut/fel/pjv/game/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/Circle/src/main/java/cz/cvut/fel/pjv/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/Circle/src/main/java/cz/cvut/fel/pjv/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/Circle/src/main/java/cz/cvut/fel/pjv/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/Circle/src/main/java/cz/cvut/fel/pjv/Positionable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/Circle/src/main/java/cz/cvut/fel/pjv/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/Circle/src/main/java/cz/cvut/fel/pjv/Shape2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/geometry/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/hello/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/hello/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/hello/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/hello/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/hello/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/hello/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/hello/src/main/java/cz/cvut/fel/pjv/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/mean/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/mean/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/mean/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/mean/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/mean/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/mean/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/mean/src/main/java/cz/cvut/fel/pjv/mean/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/pjv-lab01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/pjv-lab01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/pjv-lab01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/pjv-lab01/pjv-lab01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/pjv-lab01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/pjv-lab01/src/cz/cvut/fel/pjv/Lab01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../109/pjv-lab01/src/cz/cvut/fel/pjv/Lab01Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/src/main/java/cz/cvut/fel/pjv/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/src/main/java/cz/cvut/fel/pjv/data/TimeSpan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/src/main/java/cz/cvut/fel/pjv/model/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/src/main/java/cz/cvut/fel/pjv/model/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/cars/src/main/java/cz/cvut/fel/pjv/model/ServiceBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pjv-lab01-2/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2NJgW3xmQxpcwoV6HED4vekn3XF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/dmr4eg/Folders/Codes/CTU/pjv/cv5",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3589e8e-9bd1-4cac-8dde-bedd22db6fd6" name="Changes" comment="" />
+      <created>1679387626901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679387626901</updated>
+      <workItem from="1679387628055" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
