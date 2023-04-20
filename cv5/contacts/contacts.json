@@ -1,0 +1,99 @@
+{
+  "contacts": [
+    {
+      "firstName": "Pavlína",
+      "lastName": "Blaniková",
+      "birthYear": 1987
+    },
+    {
+      "firstName": "Petr",
+      "lastName": "Burda",
+      "birthYear": 1978
+    },
+    {
+      "firstName": "Oldřich",
+      "lastName": "Burda",
+      "birthYear": 1988
+    },
+    {
+      "firstName": "Karel",
+      "lastName": "Bůžek",
+      "birthYear": 1987
+    },
+    {
+      "firstName": "Alena",
+      "lastName": "Denková",
+      "birthYear": 1982
+    },
+    {
+      "firstName": "Lucie",
+      "lastName": "Drábková",
+      "birthYear": 1964
+    },
+    {
+      "firstName": "Dagmar",
+      "lastName": "Hašková",
+      "birthYear": 1965
+    },
+    {
+      "firstName": "Dominik",
+      "lastName": "Hradečný",
+      "birthYear": 1976
+    },
+    {
+      "firstName": "Bořivoj",
+      "lastName": "Hrubeš",
+      "birthYear": 1984
+    },
+    {
+      "firstName": "Kryštof",
+      "lastName": "Janíček",
+      "birthYear": 1994
+    },
+    {
+      "firstName": "Jitka",
+      "lastName": "Kracíková",
+      "birthYear": 1997
+    },
+    {
+      "firstName": "Jana",
+      "lastName": "Králová",
+      "birthYear": 1974
+    },
+    {
+      "firstName": "Jan",
+      "lastName": "Kužílek",
+      "birthYear": 1969
+    },
+    {
+      "firstName": "Vladimír",
+      "lastName": "Křivan",
+      "birthYear": 2001
+    },
+    {
+      "firstName": "Eliška",
+      "lastName": "Partinglová",
+      "birthYear": 1992
+    },
+    {
+      "firstName": "Monika",
+      "lastName": "Pražáková",
+      "birthYear": 1972
+    },
+    {
+      "firstName": "Adela",
+      "lastName": "Rjašková",
+      "birthYear": 1989
+    },
+    {
+      "firstName": "Josef",
+      "lastName": "Stefan",
+      "birthYear": 1963
+    },
+    {
+      "firstName": "Drahoslava",
+      "lastName": "Čermáková",
+      "birthYear": 1988
+    }
+  ]
+}

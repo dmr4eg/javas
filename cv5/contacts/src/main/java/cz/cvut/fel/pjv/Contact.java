@@ -1,9 +1,11 @@
 package cz.cvut.fel.pjv;
 
-public class Contact implements Comparable<Contact>{
-    private final String firstName;
-    private final String lastName;
-    private final int birthYear;
+import java.io.Serializable;
+
+public class Contact implements Comparable<Contact>, Serializable {
+    private String firstName;
+    private String lastName;
+    private int birthYear;
 
     public Contact(String firstName, String lastName, int birthYear) throws IncorrectNameException, IncorrectBirthYearException {
         if (!firstName.matches("[\\p{L}]+")){
@@ -26,6 +28,10 @@ public class Contact implements Comparable<Contact>{
 
     public String getLastName() {
         return lastName;
+    }
+
+    public int getBirthYear() {
+        return birthYear;
     }
 
     @Override

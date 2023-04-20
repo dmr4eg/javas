@@ -1,5 +1,9 @@
 package cz.cvut.fel.pjv;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+import java.io.*;
+
 import static java.lang.Integer.parseInt;
 
 public class Main {
@@ -44,5 +48,35 @@ public class Main {
         System.out.println(cl);
         cl.sortByLastName();
         System.out.println(cl);
+
+        String FILE_NAME = "contacts.bin";
+        //serialize
+        try(
+                ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("FILE_NAME"));
+        ) {
+            oos.writeObject(cl);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
+
+        //deserialize
+        try(
+                ObjectInputStream ois = new ObjectInputStream(new FileInputStream("FILE_NAME"));
+        ) {
+            ContactList clRead = (ContactList) ois.readObject();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        } catch (ClassNotFoundException e) {
+            throw new RuntimeException(e);
+        }
+
+        //JSON
+        ObjectMapper om = new ObjectMapper();
+        try {
+            om.writeValue(new File("contacts.json"), cl);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 }
