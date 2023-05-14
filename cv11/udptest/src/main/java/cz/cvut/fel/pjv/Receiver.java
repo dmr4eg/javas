@@ -1,10 +1,8 @@
 package cz.cvut.fel.pjv;
-
 import java.io.IOException;
 import java.net.*;
 
 public class Receiver {
-
   public static void main(String[] args) {
     try (
       DatagramSocket ds = new DatagramSocket(4455);
