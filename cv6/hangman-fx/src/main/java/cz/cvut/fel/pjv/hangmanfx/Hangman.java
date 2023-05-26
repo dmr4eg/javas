@@ -24,7 +24,7 @@ public class Hangman extends Application {
 
   @Override
   public void start(Stage stage) throws IOException {
-    model.selectHiddenWord();
+    model.selectHiddenWord(new RandomWordSource());
     loadImage();
     Pane topPane = new BorderPane(hagmanImage);
     topPane.setPadding(new Insets(15));
